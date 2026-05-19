@@ -2,22 +2,6 @@
 
 ###
 
-<div align="center">
-
-  <img
-    height="150"
-    src="https://github-readme-stats.vercel.app/api?username=mukasanray&show_icons=true&theme=tokyonight"
-  />
-
-  <img
-    height="150"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukasanray&layout=compact&theme=tokyonight"
-  />
-
-</div>
-
-###
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
