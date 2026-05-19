@@ -1,3 +1,14 @@
+<p align="left">Estou em constante evolução na área de tecnologia, em busca de oportunidades para demonstrar meu potencial, criatividade e capacidade de transformar ideias em soluções reais.</p>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mukasanray/mukasanray/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/mukasanray/mukasanray/languages-output/languages.svg" height="150" alt="languages graph"  />
+</div>
+
+###
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
@@ -48,17 +59,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
 </div>
-
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mukasanray/mukasanray/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/mukasanray/mukasanray/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<p align="left">Estou em constante evolução na área de tecnologia, em busca de oportunidades para demonstrar meu potencial, criatividade e capacidade de transformar ideias em soluções reais.</p>
 
 ###
 
