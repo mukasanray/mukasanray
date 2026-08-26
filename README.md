@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sempre buscando oportunidades para demonstrar meu potencial, criatividade e capacidade de transformar ideias em soluções reais através da programação e inovação. 💻⚡👨‍💻🌐🔥</p>
+<p align="left">I am a front-end developer constantly seeking opportunities to showcase my potential, creativity, and ability to turn ideas into real-world solutions through programming and innovation. I am currently participating in Sebrae’s SuperNova project, building a startup with my team, and gradually developing several projects—including a global music platform, two apps, and a war game. I am also deepening my knowledge of JavaScript and am about to start learning React. 💻⚡👨‍💻🌐🔥</p>
 
 ###
 
@@ -30,3 +30,11 @@
 </div>
 
 ###
+- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" />
+- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" />
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=mukasanray&show_icons=true&theme=tokyonight" alt="Samuel GitHub Stats">
+</p>
